@@ -1,4 +1,4 @@
-# Theo Zhang
+# Algorithmic discrimination 
 
 Writing sample
 
