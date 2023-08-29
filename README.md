@@ -1,5 +1,5 @@
-# TheoZhang
+# Theo Zhang
 
-writing sample
+Writing sample
 
  
